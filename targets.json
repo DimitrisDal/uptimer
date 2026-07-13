@@ -1,0 +1,5 @@
+[
+  { "name": "example",    "url": "https://example.com",       "interval_seconds": 5 },
+  { "name": "httpbin-200", "url": "https://httpbin.org/status/200", "interval_seconds": 3 },
+  { "name": "httpbin-500", "url": "https://httpbin.org/status/500", "interval_seconds": 3 }
+]
